@@ -4,10 +4,15 @@ Official code repository for **WorldMind: Decoupled Game World Model for State-A
 
 [**Paper**](https://arxiv.org/abs/2608.21439) · [**Project page**](https://teawhite.cn/WorldMind/)
 
-A boss NPC that decides what to do next by looking at the frames that were just rendered — no
-privileged access to engine state — inside a generative game world model.
 
-https://github.com/TeaWhiteBro/WorldMind/raw/main/assets/promo.mp4
+
+
+
+https://github.com/user-attachments/assets/e19b05fa-0b03-4442-9bfc-5c1ec24a0a3e
+
+
+
+
 
 ## Status
 
