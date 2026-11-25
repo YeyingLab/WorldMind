@@ -2,6 +2,12 @@
 
 Official code repository for **WorldMind: Decoupled Game World Model for State-Aware NPC Behavior**.
 
+[Zhiyang Deng](https://teawhite.cn/)<sup>1,2,†</sup>, Boran Zhang<sup>1,†</sup>, [Danze Chen](https://danzer1xxxxchan.github.io/)<sup>1,2,†</sup>, [Yeying Jin](https://jinyeying.github.io/)<sup>1,2,‡,*</sup>
+
+<sup>1</sup>Tencent, <sup>2</sup>National University of Singapore
+
+<sup>†</sup>Work done during research internships at Tencent · <sup>‡</sup>Project lead · <sup>*</sup>Corresponding author
+
 [**Paper**](https://arxiv.org/abs/2608.21439) · [**Project page**](https://teawhite.cn/WorldMind/)
 
 
